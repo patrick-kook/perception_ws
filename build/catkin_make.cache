@@ -1,0 +1,2 @@
+f110_msgs:f1tenth_simulator:my_pkg:perception_ws/src
+-DCATKIN_DEVEL_PREFIX=/home/patrick/f1_ws/devel -DCMAKE_INSTALL_PREFIX=/home/patrick/f1_ws/install -G Unix Makefiles

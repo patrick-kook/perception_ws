@@ -1,0 +1,8 @@
+prefix=/home/patrick/perception_ws/install
+
+Name: perception
+Description: Description of perception
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy std_msgs tf sensor_msgs realsense2_camera cv_bridge nav_msgs std_srvs image_transport ddynamic_reconfigure diagnostic_updater

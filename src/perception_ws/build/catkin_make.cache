@@ -1,0 +1,2 @@
+.
+-DCATKIN_DEVEL_PREFIX=/home/patrick/perception_ws/devel -DCMAKE_INSTALL_PREFIX=/home/patrick/perception_ws/install -G Unix Makefiles
